@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Heart Rate App</string>
+    <string name="target_heart_rate">Target HR</string>
+    <string name="sixty_percent">60%</string>
+    <string name="fifty_percent">50%</string>
+    <string name="ageText">Age</string>
+    <string name="hr_custom">HR Range</string>
+</resources>
